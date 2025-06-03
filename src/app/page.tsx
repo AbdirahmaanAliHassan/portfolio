@@ -1,7 +1,7 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import { FaSun, FaMoon, FaCode, FaMobileAlt, FaPaintBrush, FaGithub } from "react-icons/fa";
+import {FaCode, FaMobileAlt, FaPaintBrush, FaGithub } from "react-icons/fa";
 
 const projects = [
   {
@@ -247,7 +247,7 @@ const MainPage = () => {
             Welcome to My Portfolio
           </h2>
           <p className="text-xl max-w-xl text-gray-600 dark:text-gray-300">
-            Hi, I'm Abdirahmaan Ali Hassan, a passionate developer building awesome projects.
+            Hi, Iam Abdirahman ali , a passionate developer building awesome projects.
           </p>
         </motion.div>
       </section>
@@ -273,7 +273,7 @@ const MainPage = () => {
               About Me
             </h2>
             <p className="text-lg text-gray-700 dark:text-gray-300 mb-8 leading-relaxed">
-              I'm a passionate full-stack developer with expertise in React, Node.js, and building
+              Iam a passionate full-stack developer with expertise in React, Node.js, and building
               modern web and mobile apps. I enjoy crafting beautiful, functional user experiences.
             </p>
             <motion.a
